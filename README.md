@@ -22,5 +22,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Sanjithcode/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0141-linked-list-cycle](https://github.com/Sanjithcode/LeetCode/tree/master/0141-linked-list-cycle) |
+## String
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Sanjithcode/LeetCode/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Sanjithcode/LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
